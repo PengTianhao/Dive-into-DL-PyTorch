@@ -1,10 +1,10 @@
 <!--
  * @Author: Charlie
  * @Date: 2020-05-30 14:34:14
- * @LastEditTime: 2020-06-01 21:53:52
+ * @LastEditTime: 2020-06-02 17:46:25
  * @LastEditors: Peng Tianhao
  * @Description: 学习笔记
- * @FilePath: \PersonalFiles\Dive-into-DL-PyTorch\README.md
+ * @FilePath: \Dive-into-DL-PyTorch\README.md
  * @No Bugs Here!👇
 --> 
 
@@ -36,18 +36,28 @@
 
 看完了docs/4.2
 
+**#2020年6月2日15点07分**
 
-笔记
--------------- 
-1. 设置dropout
+看完了docs/4.6
+
+**#2020年6月2日17点46分**
+
+看完了docs/5.5
+
+
+# 笔记
+
+### 1. dropout
 
 通常的建议是把靠近输入层的丢弃概率设得小一点。在这个实验中，我们把第一个隐藏层的丢弃概率设为0.2，把第二个隐藏层的丢弃概率设为0.5。
 
-2. 构建模型结构
+![](My_img/2020-06-02-17-44-39.png)
+
+### 2. 构建模型结构
 
 ![](My_img/2020-06-01-21-09-54.png)
 
-3. Dict & OrderDict
+### 3. Dict & OrderDict
 
 ![](My_img/2020-06-01-21-22-42.png)
 
@@ -59,3 +69,24 @@ OrderDict可以用来构建module:
 
 ![](My_img/2020-06-01-21-36-09.png)
 
+### 4. 搭建自定义的网络模块
+
+见docs/4.4
+
+### 5. 保存 & 加载模型
+
+![](My_img/2020-06-02-15-01-40.png)
+
+![](My_img/2020-06-02-15-03-14.png)
+
+### 6. 查看CUDA相关参数的命令
+
+![](My_img/2020-06-02-15-05-27.png)
+
+### 7. pooling layer 的作用
+
+![](My_img/2020-06-02-16-48-46.png)
+
+![](My_img/2020-06-02-17-20-09.png)
+
+### 8. 
