@@ -1,12 +1,13 @@
 <!--
  * @Author: Charlie
  * @Date: 2020-05-30 14:34:14
- * @LastEditTime: 2020-06-04 18:04:34
+ * @LastEditTime: 2020-06-05 18:07:34
  * @LastEditors: Peng Tianhao
  * @Description: 学习笔记
  * @FilePath: \Dive-into-DL-PyTorch\README.md
  * @No Bugs Here!👇
 --> 
+# 进度
 
 **#2020年5月30日14点34分**
 
@@ -47,6 +48,10 @@
 **#2020年6月4日18点04分**
 
 看完了 docs/5.12
+
+**#2020年6月5日18点07分**
+
+看完了 docs/6.6
 
 
 # 笔记
@@ -93,4 +98,22 @@ OrderDict可以用来构建module:
 
 ![](My_img/2020-06-02-17-20-09.png)
 
-### 8. 
+### 8. 困惑度-评价模型的指标
+
+![](My_img/2020-06-05-17-22-27.png)
+
+### 9. RNN底层代码/原理实现
+
+见docs/ 6.4 
+
+### 10. RNN loss计算图
+
+![](My_img/2020-06-05-17-55-27.png)
+
+
+# 疑问
+
+1. docs/ 6.2 
+
+![](My_img/2020-06-05-16-23-22.png)
+
