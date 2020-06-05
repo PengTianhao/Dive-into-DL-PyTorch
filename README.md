@@ -1,7 +1,7 @@
 <!--
  * @Author: Charlie
  * @Date: 2020-05-30 14:34:14
- * @LastEditTime: 2020-06-05 18:07:34
+ * @LastEditTime: 2020-06-05 22:27:13
  * @LastEditors: Peng Tianhao
  * @Description: 学习笔记
  * @FilePath: \Dive-into-DL-PyTorch\README.md
@@ -53,6 +53,9 @@
 
 看完了 docs/6.6
 
+**#2020年6月5日22点27分**
+
+看完了 docs/6.10
 
 # 笔记
 
@@ -110,6 +113,20 @@ OrderDict可以用来构建module:
 
 ![](My_img/2020-06-05-17-55-27.png)
 
+
+### 11. GRU门结构
+
+![](My_img/2020-06-05-21-49-54.png)
+
+我们对门控循环单元的设计稍作总结：
+
+- 重置门有助于捕捉时间序列里短期的依赖关系；
+
+- 更新门有助于捕捉时间序列里长期的依赖关系。
+
+### 12. LSTM 单元结构
+
+![](My_img/2020-06-05-22-08-01.png)
 
 # 疑问
 
